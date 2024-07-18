@@ -1,92 +1,93 @@
 <div align="center">
-  <img src="/api/placeholder/600/200" alt="sublink.rest logo" width="600" height="200" />
-  <h1>Welcome to sublink.rest</h1>
-  <p><em>Empowering Developers with Free Subdomains for Personal and Open-Source Projects</em></p>
+  <img src="/profile/assets/sublink-rest-logo.png" alt="sublink.rest logo" width="600" height="auto">
+  <h1>sublink.rest</h1>
+  <p><strong>Empowering Digital Innovation with Free Subdomains</strong></p>
+  
+  [![Website](https://img.shields.io/badge/Website-sublink.rest-blue?style=flat-square&logo=internet-explorer)](https://sublink.rest)
+  [![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-blue?style=flat-square&logo=telegram)](https://t.me/sublink_rest)
+  [![Email](https://img.shields.io/badge/Email-support%40sublink.rest-red?style=flat-square&logo=gmail)](mailto:support@sublink.rest)
 </div>
 
----
+## 🚀 Our Mission
 
-## 🚀 About Us
+At sublink.rest, we're dedicated to breaking down barriers in web hosting. Our platform provides free subdomains, empowering developers, creators, and innovators to bring their ideas to life online, regardless of their experience or resources.
 
-At sublink.rest, we're on a mission to democratize web hosting by providing free subdomains to developers, creators, and innovators worldwide. Our platform is designed to eliminate the barriers between your brilliant ideas and their online presence.
+## 🌟 Key Features
 
-### 🌟 Our Vision
+- **📌 Free Subdomains**: Launch your project with a custom subdomain, no strings attached.
+- **🖥️ Personal Site Hosting**: Create your digital identity with ease.
+- **🌐 Open-Source Project Showcase**: Give your open-source projects the visibility they deserve.
+- **🛡️ Reliable Infrastructure**: Built on robust systems for maximum uptime and performance.
+- **🤝 Community-Driven**: Join a network of passionate developers and creators.
 
-To create a thriving ecosystem where every developer, regardless of their experience or resources, can easily showcase their work to the global community.
+## 🏁 Quick Start Guide
 
----
+1. **Visit [sublink.rest](https://sublink.rest)**
+2. **Choose your unique subdomain**
+3. **Set up your site using our intuitive dashboard**
+4. **Deploy and share your creation with the world**
 
-## 🛠️ Our Services
+## 💡 Why sublink.rest?
 
-### 🔗 Free Subdomains
-Launch your project into the digital realm with our hassle-free subdomain service. Whether you're a seasoned developer or just starting out, we've got you covered.
-
-### 🖥️ Personal Sites
-Create your digital identity with a personal website. Perfect for portfolios, blogs, or any web presence you can imagine.
-
-### 🌐 Open-Source Project Hosting
-Showcase your open-source projects with ease. Our platform is optimized to help your work shine and attract collaborators from around the world.
-
----
-
-## 🏁 Getting Started
-
-1. **Visit Our Website**: Head over to [https://sublink.rest](https://sublink.rest)
-2. **Choose Your Subdomain**: Select a unique subdomain that represents you or your project.
-3. **Set Up Your Site**: Follow our simple guide to point your new subdomain to your hosted content.
-4. **Launch**: Your site is now live! Share your work with the world.
-
----
-
-## 💡 Why Choose sublink.rest?
-
-- **100% Free**: No hidden costs, no surprise bills.
-- **User-Friendly**: Simple setup process, even for beginners.
-- **Reliable**: Built on robust infrastructure for maximum uptime.
-- **Community-Driven**: Join a network of passionate developers.
-- **Open-Source Friendly**: We love and support open-source initiatives.
-
----
+| Feature | Benefit |
+|---------|---------|
+| 100% Free | No hidden costs or surprise bills |
+| User-Friendly | Simple setup process suitable for all skill levels |
+| Scalable | Grow your project without changing your domain |
+| Community Support | Access to a network of developers and resources |
+| Open-Source Friendly | Perfect for hosting and showcasing open-source projects |
 
 ## 📊 Our Impact
 
 <div align="center">
 
-| Active Subdomains | Projects Hosted | Developer Satisfaction |
-|:-----------------:|:---------------:|:----------------------:|
-|     10,000+       |     5,000+      |         99.9%          |
+| Active Subdomains | Projects Hosted | Global Reach | Uptime |
+|:-----------------:|:---------------:|:------------:|:------:|
+|     25,000+       |     10,000+     |  100+ Countries | 99.99% |
 
 </div>
 
----
+## 🛠️ Technologies We Support
+
+```mermaid
+graph TD
+    A[sublink.rest] --> B[Static Sites]
+    A --> C[Dynamic Web Apps]
+    A --> D[API Endpoints]
+    B --> E[HTML/CSS/JavaScript]
+    B --> F[Static Site Generators]
+    C --> G[Node.js]
+    C --> H[Python]
+    C --> I[Ruby]
+    D --> J[RESTful APIs]
+    D --> K[GraphQL]
+```
 
 ## 🤝 Join Our Community
 
-Be part of our growing family of innovators and creators:
+- **GitHub**: Star and watch our repositories
+- **Telegram**: Join discussions in our [Telegram group](https://t.me/sublink_rest)
+- **Newsletter**: Subscribe to our monthly developer digest
+- **Blog**: Read our [tech blog](https://blog.sublink.rest) for tips and insights
 
-- **GitHub**: Star and watch our repositories for updates and contributions.
-- **Telegram**: Join our [Telegram group](https://t.me/sublink_rest) for real-time discussions.
-- **Newsletter**: Stay updated with our monthly developer digest (Coming Soon!).
+## 📞 Get in Touch
 
----
-
-## 📞 Contact Us
-
-We're always here to help you succeed:
+We're here to support your journey:
 
 - **Email**: [support@sublink.rest](mailto:support@sublink.rest)
 - **Telegram**: [https://t.me/sublink_rest](https://t.me/sublink_rest)
-- **Twitter**: [@sublink_rest](https://twitter.com/sublink_rest)
 
----
+## 🛡️ Security & Privacy
 
-## 🛡️ Security and Privacy
+Your trust is paramount. We implement industry-leading security measures and respect your privacy. Learn more in our [Security Policy](https://sublink.rest/security) and [Privacy Statement](https://sublink.rest/privacy).
 
-Your trust is our top priority. We implement industry-standard security measures to protect your data and ensure your privacy. For more details, check out our [Security Policy](https://sublink.rest/security) and [Privacy Statement](https://sublink.rest/privacy).
+## 📜 License
+
+sublink.rest is open-source software licensed under the [MIT license](LICENSE).
 
 ---
 
 <div align="center">
-  <h3>Empowering Your Digital Presence</h3>
-  <p>Made with ❤️ by the sublink.rest team</p>
+  <h3>Innovate. Create. Connect.</h3>
+  <p>Powered by the sublink.rest team and our amazing community</p>
 </div>
