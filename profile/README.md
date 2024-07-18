@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/profile/assets/sublink-rest-logo.png" alt="sublink.rest logo" width="600" height="auto">
+  <img src="logo.png" alt="sublink.rest logo" width="600" height="auto">
   <h1>sublink.rest</h1>
   <p><strong>Empowering Digital Innovation with Free Subdomains</strong></p>
   
